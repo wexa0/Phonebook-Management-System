@@ -8,13 +8,13 @@ This application is efficient for organizing and retrieving contact information,
 ---
 
 ## 🎯 Key Features:
-- **Add Contact** 📝: Add new contacts with detailed information such as name, phone number, email, address, and birthday.
-- **Search Contact** 🔍: Search for contacts based on various parameters like name, phone number, email, address, or birthday.
-- **Delete Contact** 🗑️: Remove contacts from the system.
-- **Schedule Events** 📅: Create events and appointments for each contact.
-- **View Events** 📋: Manage and display events for a specific contact.
-- **Sort Contacts by First Name** 🗣️: List contacts in alphabetical order by first name.
-- **Sort Events by Title** 🔄: Sort events alphabetically by title for better organization.
+- **Add Contact** : Add new contacts with detailed information such as name, phone number, email, address, and birthday.
+- **Search Contact** : Search for contacts based on various parameters like name, phone number, email, address, or birthday.
+- **Delete Contact** : Remove contacts from the system.
+- **Schedule Events** : Create events and appointments for each contact.
+- **View Events** : Manage and display events for a specific contact.
+- **Sort Contacts by First Name** : List contacts in alphabetical order by first name.
+- **Sort Events by Title** : Sort events alphabetically by title for better organization.
 
 ---
 
